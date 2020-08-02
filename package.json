@@ -1,0 +1,30 @@
+{
+  "name": "instagram-masonry",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@dash-ui/reset": "0.2.1",
+    "@dash-ui/styles": "0.7.1",
+    "@react-hook/window-scroll": "1.1.4",
+    "masonic": "3.3.2",
+    "react": "experimental",
+    "react-dom": "experimental",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
