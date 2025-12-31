@@ -11,7 +11,7 @@
     "masonic": "3.3.2",
     "react": "experimental",
     "react-dom": "experimental",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"
